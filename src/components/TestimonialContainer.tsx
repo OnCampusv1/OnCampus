@@ -4,7 +4,6 @@ import testimonial1 from "../assets/images/testimonial1.svg"
 import testimonial2 from "../assets/images/testimonial2.svg"
 import arrowLeft from "../assets/images/arrowLeft.svg"
 import arrowRight from "../assets/images/arrowRight.svg"
-import Button from "./ui/Button";
 
 const TestimonialContainer = () => {
   const scrollContainerRef = useRef<HTMLDivElement>(null);
